@@ -15,3 +15,4 @@ Este proyecto, titulado **"PachaMap"**, fue desarrollado como parte de la materi
 
 👥 **Integrantes del equipo:**  
 - 
+- Patiño Lazarte Calep Giovanni
